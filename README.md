@@ -48,7 +48,7 @@ Thesis with Prof. Angelo Gargantini: [HaiSIM](https://github.com/DaniGreco/hai-s
 with an AI in it, to study how AI changes waiting times and the radiologists' decisions.
 
 **BSc in Computer Science and Engineering**, University of Bergamo · 2019 – 2023<br>
-Thesis with Prof. Paolo Malighetti: [a web scraper](https://github.com/DaniGreco/BSc_Thesis) in JavaScript, Node.js and Docker
+Thesis with Prof. Paolo Malighetti: [a web scraper](https://github.com/DaniGreco/ebike-market-analysis) in JavaScript, Node.js and Docker
 that collects e-bike components from Italian shops.
 
 ---
